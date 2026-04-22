@@ -74,6 +74,7 @@ flutter:
     - assets/images/forgot password/
     - assets/images/forgot password_2/
     - assets/images/tour_share/
+    - assets/images/search/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
